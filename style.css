@@ -1,0 +1,29 @@
+body{
+    
+}
+#cv-form{
+    display: none;
+}
+.myimg{
+   
+    border-radius: 50%;
+    width: 50%;
+}
+.background{
+    background-color: aqua;
+}
+.display{
+    display: inline-flex;
+    margin: -100%;
+}
+.links{
+    margin: -100%;
+    padding: -100%;
+    line-height:-10%;
+    border: -20%;
+    
+}
+.text{
+    text-decoration: none;
+}
+
